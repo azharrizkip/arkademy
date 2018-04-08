@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.judul span{
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.judul{
+	font-family: sans-serif;
+	padding-top: 40px;
+	float: left;	
+	padding-left: 50px;
+}
+.container{
+	border: 1px solid #BEBEBE;
+	margin-top: 50px;
+}
+.created{
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.comment li{
+	margin-left: 45px;
+}
+.jumbotron{
+	height: 300px;
+}
